@@ -15,3 +15,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/guptashilpa/rexample
+BugReports: https://github.com/guptashilpa/rexample/issues
